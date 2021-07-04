@@ -12,7 +12,7 @@ Open console,i.e., cmd
 go to application root,i.e., userprofile
 
 
-<userprofile> gradlew bootRun
+`<userprofile>: gradlew bootRun`
 
 The command will start the application after download all the relevant jars and artifacts
 
