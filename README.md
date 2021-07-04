@@ -1,7 +1,7 @@
 # SampleExercise
 Sample Exercise for User Profile Microservice
 
-## prerequistie:
+## Prerequisite:
 Following software should be installed
 - gradle version 7.0.2
 - java version > 1.8
@@ -19,6 +19,6 @@ The command will start the application after download all the relevant jars and 
 ### Access the application through Swagger
 http://localhost:9091/swagger-ui.html
 
-**Note -Sample application userprofile is created with memdatabase. Before accession any operation of GET, PUT or DELETE, make sure POST operation is performed by creating a new record of user.
+**Note** -Sample application userprofile is created with memdatabase. Before accessing any operation of GET, PUT or DELETE, make sure POST operation is performed by creating a new record of user.
 
 
